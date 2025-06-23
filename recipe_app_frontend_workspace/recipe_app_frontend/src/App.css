@@ -1,9 +1,13 @@
 :root {
-  --base-light: #00ffff;
-  --base-dark: #00008b;
-  --text-color: #ffffff;
-  --text-secondary: rgba(255, 255, 255, 0.7);
-  --border-color: rgba(255, 255, 255, 0.1);
+  --primary: #34a853;
+  --secondary: #fbbc05;
+  --accent: #ea4335;
+  --background: #fff;
+  --navbar: #fff;
+  --sidebar: #f8f9fa;
+  --text-color: #222;
+  --text-secondary: #666;
+  --border-color: #ececec;
 }
 
 body {

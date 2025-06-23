@@ -23,3 +23,562 @@ modules by path ./.ve/ 15.1 KiB
     ./node_modules/css-loader/dist/cjs.js!./.ve/EditorOverlay.css 697 bytes [built] [code generated]
   ./.ve/EditorOverlay.jsx 1.58 KiB [built] [code generated]
 webpack 5.99.9 compiled successfully in 1486 ms
+assets by status 1.98 KiB [cached] 1 asset
+assets by path *.js 1.4 MiB
+  asset bundle.js 1.39 MiB [emitted] (name: main)
+  asset main.dec73499174f61ed39d6.hot-update.js 4.69 KiB [emitted] [immutable] [hmr] (name: main)
+asset main.dec73499174f61ed39d6.hot-update.json 28 bytes [emitted] [immutable] [hmr]
+Entrypoint main 1.4 MiB = bundle.js 1.39 MiB main.dec73499174f61ed39d6.hot-update.js 4.69 KiB
+cached modules 1.26 MiB [cached] 41 modules
+runtime modules 27.5 KiB 14 modules
+./node_modules/css-loader/dist/cjs.js!./src/App.css 2.23 KiB [built] [code generated]
+webpack 5.99.9 compiled successfully in 87 ms
+assets by status 1.98 KiB [cached] 1 asset
+assets by path *.js 1.41 MiB
+  asset bundle.js 1.4 MiB [emitted] (name: main)
+  asset main.275c08844d50f1e07c86.hot-update.js 12 KiB [emitted] [immutable] [hmr] (name: main)
+asset main.275c08844d50f1e07c86.hot-update.json 28 bytes [emitted] [immutable] [hmr]
+Entrypoint main 1.41 MiB = bundle.js 1.4 MiB main.275c08844d50f1e07c86.hot-update.js 12 KiB
+cached modules 1.26 MiB [cached] 41 modules
+runtime modules 27.5 KiB 14 modules
+javascript modules 4.68 KiB
+  ./src/App.js 4.38 KiB [built] [code generated]
+  ./src/theme.js 311 bytes [built] [code generated]
+
+ERROR in ./src/App.js 2:0-74
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 5:0-43
+Module not found: Error: Can't resolve './components/Sidebar' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 6:0-41
+Module not found: Error: Can't resolve './components/Navbar' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 7:0-46
+Module not found: Error: Can't resolve './screens/RecipeList' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 8:0-50
+Module not found: Error: Can't resolve './screens/RecipeDetail' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 9:0-46
+Module not found: Error: Can't resolve './screens/RecipeForm' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 10:0-46
+Module not found: Error: Can't resolve './screens/AuthScreen' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 11:0-44
+Module not found: Error: Can't resolve './screens/Favorites' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 12:0-39
+Module not found: Error: Can't resolve './components/Modal' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+9 errors have detailed information that is not shown.
+Use 'stats.errorDetails: true' resp. '--stats-error-details' to show it.
+
+webpack 5.99.9 compiled with 9 errors in 114 ms
+assets by status 1.98 KiB [cached] 1 asset
+assets by path *.js 1.42 MiB
+  asset bundle.js 1.4 MiB [emitted] (name: main)
+  asset main.6b41f84ad0c8cfef9d7e.hot-update.js 16.2 KiB [emitted] [immutable] [hmr] (name: main)
+asset main.6b41f84ad0c8cfef9d7e.hot-update.json 28 bytes [emitted] [immutable] [hmr]
+Entrypoint main 1.42 MiB = bundle.js 1.4 MiB main.6b41f84ad0c8cfef9d7e.hot-update.js 16.2 KiB
+cached modules 1.26 MiB [cached] 42 modules
+runtime modules 27.5 KiB 14 modules
+javascript modules 7.08 KiB
+  ./src/App.js 4.38 KiB [code generated]
+  ./src/components/Navbar.js 2.7 KiB [built] [code generated]
+
+ERROR in ./src/App.js 2:0-74
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 5:0-43
+Module not found: Error: Can't resolve './components/Sidebar' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 7:0-46
+Module not found: Error: Can't resolve './screens/RecipeList' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 8:0-50
+Module not found: Error: Can't resolve './screens/RecipeDetail' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 9:0-46
+Module not found: Error: Can't resolve './screens/RecipeForm' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 10:0-46
+Module not found: Error: Can't resolve './screens/AuthScreen' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 11:0-44
+Module not found: Error: Can't resolve './screens/Favorites' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 12:0-39
+Module not found: Error: Can't resolve './components/Modal' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/components/Navbar.js 2:0-53
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src/components'
+ @ ./src/App.js 6:0-41 41:35-41
+ @ ./src/index.js 5:0-24 11:32-35
+
+9 errors have detailed information that is not shown.
+Use 'stats.errorDetails: true' resp. '--stats-error-details' to show it.
+
+webpack 5.99.9 compiled with 9 errors in 76 ms
+assets by status 1.98 KiB [cached] 1 asset
+assets by path *.js 1.42 MiB
+  asset bundle.js 1.41 MiB [emitted] (name: main)
+  asset main.6ea787e7cd638a8d539d.hot-update.js 14.2 KiB [emitted] [immutable] [hmr] (name: main)
+asset main.6ea787e7cd638a8d539d.hot-update.json 28 bytes [emitted] [immutable] [hmr]
+Entrypoint main 1.42 MiB = bundle.js 1.41 MiB main.6ea787e7cd638a8d539d.hot-update.js 14.2 KiB
+cached modules 1.26 MiB [cached] 43 modules
+runtime modules 27.5 KiB 14 modules
+javascript modules 6.29 KiB
+  ./src/App.js 4.38 KiB [code generated]
+  ./src/components/Sidebar.js 1.9 KiB [built] [code generated]
+
+ERROR in ./src/App.js 2:0-74
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 7:0-46
+Module not found: Error: Can't resolve './screens/RecipeList' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 8:0-50
+Module not found: Error: Can't resolve './screens/RecipeDetail' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 9:0-46
+Module not found: Error: Can't resolve './screens/RecipeForm' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 10:0-46
+Module not found: Error: Can't resolve './screens/AuthScreen' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 11:0-44
+Module not found: Error: Can't resolve './screens/Favorites' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 12:0-39
+Module not found: Error: Can't resolve './components/Modal' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/components/Navbar.js 2:0-53
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src/components'
+ @ ./src/App.js 6:0-41 41:35-41
+ @ ./src/index.js 5:0-24 11:32-35
+
+8 errors have detailed information that is not shown.
+Use 'stats.errorDetails: true' resp. '--stats-error-details' to show it.
+
+webpack 5.99.9 compiled with 8 errors in 70 ms
+assets by status 1.98 KiB [cached] 1 asset
+assets by path *.js 1.42 MiB
+  asset bundle.js 1.41 MiB [emitted] (name: main)
+  asset main.2df1ec3ed00d7002894b.hot-update.js 13.6 KiB [emitted] [immutable] [hmr] (name: main)
+asset main.2df1ec3ed00d7002894b.hot-update.json 28 bytes [emitted] [immutable] [hmr]
+Entrypoint main 1.42 MiB = bundle.js 1.41 MiB main.2df1ec3ed00d7002894b.hot-update.js 13.6 KiB
+cached modules 1.27 MiB [cached] 44 modules
+runtime modules 27.5 KiB 14 modules
+javascript modules 5.86 KiB
+  ./src/App.js 4.38 KiB [code generated]
+  ./src/components/Modal.js 1.48 KiB [built] [code generated]
+
+ERROR in ./src/App.js 2:0-74
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 7:0-46
+Module not found: Error: Can't resolve './screens/RecipeList' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 8:0-50
+Module not found: Error: Can't resolve './screens/RecipeDetail' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 9:0-46
+Module not found: Error: Can't resolve './screens/RecipeForm' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 10:0-46
+Module not found: Error: Can't resolve './screens/AuthScreen' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 11:0-44
+Module not found: Error: Can't resolve './screens/Favorites' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/components/Navbar.js 2:0-53
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src/components'
+ @ ./src/App.js 6:0-41 41:35-41
+ @ ./src/index.js 5:0-24 11:32-35
+
+7 errors have detailed information that is not shown.
+Use 'stats.errorDetails: true' resp. '--stats-error-details' to show it.
+
+webpack 5.99.9 compiled with 7 errors in 67 ms
+assets by status 1.98 KiB [cached] 1 asset
+assets by path *.js 1.43 MiB
+  asset bundle.js 1.42 MiB [emitted] (name: main)
+  asset main.a18083446784338716bd.hot-update.js 18.3 KiB [emitted] [immutable] [hmr] (name: main)
+asset main.a18083446784338716bd.hot-update.json 28 bytes [emitted] [immutable] [hmr]
+Entrypoint main 1.43 MiB = bundle.js 1.42 MiB main.a18083446784338716bd.hot-update.js 18.3 KiB
+cached modules 1.27 MiB [cached] 45 modules
+runtime modules 27.5 KiB 14 modules
+javascript modules 9.15 KiB
+  ./src/App.js 4.38 KiB [code generated]
+  ./src/screens/RecipeList.js 4.77 KiB [built] [code generated]
+
+ERROR in ./src/App.js 2:0-74
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 8:0-50
+Module not found: Error: Can't resolve './screens/RecipeDetail' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 9:0-46
+Module not found: Error: Can't resolve './screens/RecipeForm' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 10:0-46
+Module not found: Error: Can't resolve './screens/AuthScreen' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 11:0-44
+Module not found: Error: Can't resolve './screens/Favorites' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/components/Navbar.js 2:0-53
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src/components'
+ @ ./src/App.js 6:0-41 41:35-41
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/screens/RecipeList.js 2:0-40
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src/screens'
+ @ ./src/App.js 7:0-46 67:41-51
+ @ ./src/index.js 5:0-24 11:32-35
+
+7 errors have detailed information that is not shown.
+Use 'stats.errorDetails: true' resp. '--stats-error-details' to show it.
+
+webpack 5.99.9 compiled with 7 errors in 79 ms
+assets by status 1.98 KiB [cached] 1 asset
+assets by path *.js 1.44 MiB
+  asset bundle.js 1.42 MiB [emitted] (name: main)
+  asset main.032043599666c1b5afbb.hot-update.js 19.1 KiB [emitted] [immutable] [hmr] (name: main)
+asset main.032043599666c1b5afbb.hot-update.json 28 bytes [emitted] [immutable] [hmr]
+Entrypoint main 1.44 MiB = bundle.js 1.42 MiB main.032043599666c1b5afbb.hot-update.js 19.1 KiB
+cached modules 1.27 MiB [cached] 46 modules
+runtime modules 27.5 KiB 14 modules
+javascript modules 9.61 KiB
+  ./src/App.js 4.38 KiB [code generated]
+  ./src/screens/RecipeDetail.js 5.23 KiB [built] [code generated]
+
+ERROR in ./src/App.js 2:0-74
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 9:0-46
+Module not found: Error: Can't resolve './screens/RecipeForm' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 10:0-46
+Module not found: Error: Can't resolve './screens/AuthScreen' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 11:0-44
+Module not found: Error: Can't resolve './screens/Favorites' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/components/Navbar.js 2:0-53
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src/components'
+ @ ./src/App.js 6:0-41 41:35-41
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/screens/RecipeDetail.js 2:0-64
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src/screens'
+ @ ./src/App.js 8:0-50 74:41-53
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/screens/RecipeList.js 2:0-40
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src/screens'
+ @ ./src/App.js 7:0-46 67:41-51
+ @ ./src/index.js 5:0-24 11:32-35
+
+7 errors have detailed information that is not shown.
+Use 'stats.errorDetails: true' resp. '--stats-error-details' to show it.
+
+webpack 5.99.9 compiled with 7 errors in 81 ms
+assets by status 1.98 KiB [cached] 1 asset
+assets by path *.js 1.46 MiB
+  asset bundle.js 1.44 MiB [emitted] (name: main)
+  asset main.c458d8eff035967a9f86.hot-update.js 21.4 KiB [emitted] [immutable] [hmr] (name: main)
+asset main.c458d8eff035967a9f86.hot-update.json 28 bytes [emitted] [immutable] [hmr]
+Entrypoint main 1.46 MiB = bundle.js 1.44 MiB main.c458d8eff035967a9f86.hot-update.js 21.4 KiB
+cached modules 1.28 MiB [cached] 47 modules
+runtime modules 27.5 KiB 14 modules
+javascript modules 12.1 KiB
+  ./src/App.js 4.38 KiB [code generated]
+  ./src/screens/RecipeForm.js 7.73 KiB [built] [code generated]
+
+ERROR in ./src/App.js 2:0-74
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 10:0-46
+Module not found: Error: Can't resolve './screens/AuthScreen' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 11:0-44
+Module not found: Error: Can't resolve './screens/Favorites' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/components/Navbar.js 2:0-53
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src/components'
+ @ ./src/App.js 6:0-41 41:35-41
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/screens/RecipeDetail.js 2:0-64
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src/screens'
+ @ ./src/App.js 8:0-50 74:41-53
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/screens/RecipeForm.js 2:0-58
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src/screens'
+ @ ./src/App.js 9:0-46 81:41-51 89:41-51
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/screens/RecipeList.js 2:0-40
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src/screens'
+ @ ./src/App.js 7:0-46 67:41-51
+ @ ./src/index.js 5:0-24 11:32-35
+
+7 errors have detailed information that is not shown.
+Use 'stats.errorDetails: true' resp. '--stats-error-details' to show it.
+
+webpack 5.99.9 compiled with 7 errors in 96 ms
+assets by status 1.98 KiB [cached] 1 asset
+assets by path *.js 1.46 MiB
+  asset bundle.js 1.44 MiB [emitted] (name: main)
+  asset main.28e2dd83e3dc195dbc06.hot-update.js 17 KiB [emitted] [immutable] [hmr] (name: main)
+asset main.28e2dd83e3dc195dbc06.hot-update.json 28 bytes [emitted] [immutable] [hmr]
+Entrypoint main 1.46 MiB = bundle.js 1.44 MiB main.28e2dd83e3dc195dbc06.hot-update.js 17 KiB
+cached modules 1.29 MiB [cached] 48 modules
+runtime modules 27.5 KiB 14 modules
+javascript modules 8.65 KiB
+  ./src/App.js 4.38 KiB [code generated]
+  ./src/screens/AuthScreen.js 4.27 KiB [built] [code generated]
+
+ERROR in ./src/App.js 2:0-74
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 11:0-44
+Module not found: Error: Can't resolve './screens/Favorites' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/components/Navbar.js 2:0-53
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src/components'
+ @ ./src/App.js 6:0-41 41:35-41
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/screens/AuthScreen.js 2:0-47
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src/screens'
+ @ ./src/App.js 10:0-46 97:41-51 104:41-51
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/screens/RecipeDetail.js 2:0-64
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src/screens'
+ @ ./src/App.js 8:0-50 74:41-53
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/screens/RecipeForm.js 2:0-58
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src/screens'
+ @ ./src/App.js 9:0-46 81:41-51 89:41-51
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/screens/RecipeList.js 2:0-40
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src/screens'
+ @ ./src/App.js 7:0-46 67:41-51
+ @ ./src/index.js 5:0-24 11:32-35
+
+7 errors have detailed information that is not shown.
+Use 'stats.errorDetails: true' resp. '--stats-error-details' to show it.
+
+webpack 5.99.9 compiled with 7 errors in 76 ms
+assets by status 1.98 KiB [cached] 1 asset
+assets by path *.js 1.46 MiB
+  asset bundle.js 1.45 MiB [emitted] (name: main)
+  asset main.2e5ab9970139762e5ca1.hot-update.js 14.4 KiB [emitted] [immutable] [hmr] (name: main)
+asset main.2e5ab9970139762e5ca1.hot-update.json 28 bytes [emitted] [immutable] [hmr]
+Entrypoint main 1.46 MiB = bundle.js 1.45 MiB main.2e5ab9970139762e5ca1.hot-update.js 14.4 KiB
+cached modules 1.29 MiB [cached] 49 modules
+runtime modules 27.5 KiB 14 modules
+javascript modules 6.63 KiB
+  ./src/App.js 4.38 KiB [code generated]
+  ./src/screens/Favorites.js 2.25 KiB [built] [code generated]
+
+ERROR in ./src/App.js 2:0-74
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/components/Navbar.js 2:0-53
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src/components'
+ @ ./src/App.js 6:0-41 41:35-41
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/screens/AuthScreen.js 2:0-47
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src/screens'
+ @ ./src/App.js 10:0-46 97:41-51 104:41-51
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/screens/Favorites.js 2:0-40
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src/screens'
+ @ ./src/App.js 11:0-44 111:41-50
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/screens/RecipeDetail.js 2:0-64
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src/screens'
+ @ ./src/App.js 8:0-50 74:41-53
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/screens/RecipeForm.js 2:0-58
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src/screens'
+ @ ./src/App.js 9:0-46 81:41-51 89:41-51
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/screens/RecipeList.js 2:0-40
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src/screens'
+ @ ./src/App.js 7:0-46 67:41-51
+ @ ./src/index.js 5:0-24 11:32-35
+
+7 errors have detailed information that is not shown.
+Use 'stats.errorDetails: true' resp. '--stats-error-details' to show it.
+
+webpack 5.99.9 compiled with 7 errors in 51 ms
+assets by status 1.45 MiB [cached] 2 assets
+cached modules 1.3 MiB (javascript) 27.5 KiB (runtime) [cached] 65 modules
+
+LOG from webpack.FileSystemInfo
+<w> Managed item /home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/node_modules/react-router-dom isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
++ 13 hidden lines
+
+ERROR in ./src/App.js 2:0-74
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/components/Navbar.js 2:0-53
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src/components'
+ @ ./src/App.js 6:0-41 41:35-41
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/screens/AuthScreen.js 2:0-47
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src/screens'
+ @ ./src/App.js 10:0-46 97:41-51 104:41-51
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/screens/Favorites.js 2:0-40
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src/screens'
+ @ ./src/App.js 11:0-44 111:41-50
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/screens/RecipeDetail.js 2:0-64
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src/screens'
+ @ ./src/App.js 8:0-50 74:41-53
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/screens/RecipeForm.js 2:0-58
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src/screens'
+ @ ./src/App.js 9:0-46 81:41-51 89:41-51
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/screens/RecipeList.js 2:0-40
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/recipehub-32635-61a90b2f/recipe_app_frontend_workspace/recipe_app_frontend/src/screens'
+ @ ./src/App.js 7:0-46 67:41-51
+ @ ./src/index.js 5:0-24 11:32-35
+
+7 errors have detailed information that is not shown.
+Use 'stats.errorDetails: true' resp. '--stats-error-details' to show it.
+
+webpack 5.99.9 compiled with 7 errors in 34 ms
+assets by status 1.98 KiB [cached] 1 asset
+assets by path *.js 2.16 MiB
+  asset bundle.js 1.78 MiB [emitted] (name: main)
+  asset main.00ab3abd1f9dbd2c28b4.hot-update.js 394 KiB [emitted] [immutable] [hmr] (name: main)
+asset main.00ab3abd1f9dbd2c28b4.hot-update.json 28 bytes [emitted] [immutable] [hmr]
+Entrypoint main 2.16 MiB = bundle.js 1.78 MiB main.00ab3abd1f9dbd2c28b4.hot-update.js 394 KiB
+cached modules 1.27 MiB [cached] 44 modules
+runtime modules 28.7 KiB 15 modules
+javascript modules 339 KiB
+  modules by path ./src/ 31.3 KiB
+    modules by path ./src/screens/*.js 24.2 KiB
+      ./src/screens/RecipeList.js 4.77 KiB [code generated]
+      ./src/screens/RecipeDetail.js 5.23 KiB [code generated]
+      ./src/screens/RecipeForm.js 7.73 KiB [code generated]
+      + 2 modules
+    ./src/App.js 4.38 KiB [code generated]
+    ./src/components/Navbar.js 2.7 KiB [code generated]
+  built modules 307 KiB [built]
+    ./node_modules/react-router-dom/dist/index.js 55.4 KiB [built] [code generated]
+    ./node_modules/react-router/dist/index.js 59.3 KiB [built] [code generated]
+    ./node_modules/@remix-run/router/dist/router.js 193 KiB [built] [code generated]
+webpack 5.99.9 compiled successfully in 277 ms
+Injecting EditorRootWrapper import: ../.ve/EditorRootWrapper
+assets by path *.js 1.78 MiB
+  asset bundle.js 1.78 MiB [emitted] (name: main)
+  asset main.256e82867a5de6dfece3.hot-update.js 854 bytes [emitted] [immutable] [hmr] (name: main)
+asset index.html 1.98 KiB [emitted]
+asset main.256e82867a5de6dfece3.hot-update.json 28 bytes [emitted] [immutable] [hmr]
+Entrypoint main 1.78 MiB = bundle.js 1.78 MiB main.256e82867a5de6dfece3.hot-update.js 854 bytes
+cached modules 1.55 MiB [cached] 40 modules
+runtime modules 28.7 KiB 15 modules
+javascript modules 47.7 KiB
+  modules by path ./src/ 35.5 KiB
+    modules by path ./src/screens/*.js 24.2 KiB 5 modules
+    modules by path ./src/*.js 5.2 KiB
+      ./src/index.js 530 bytes [built]
+      + 2 modules
+    modules by path ./src/components/*.js 6.08 KiB
+      ./src/components/Sidebar.js 1.9 KiB [built]
+      + 2 modules
+  modules by path ./.ve/ 12.2 KiB
+    ./.ve/EditorRootWrapper.js 2.68 KiB [built]
+    ./.ve/EditorOverlay.jsx 1.58 KiB [built]
+    ./.ve/SidePanel.js 7.93 KiB [built]
+webpack 5.99.9 compiled successfully in 401 ms
+assets by status 1.98 KiB [cached] 1 asset
+assets by path *.js 1.78 MiB
+  asset bundle.js 1.78 MiB [emitted] (name: main)
+  asset main.08d609d4c527e93bf35e.hot-update.js 5.67 KiB [emitted] [immutable] [hmr] (name: main)
+asset main.08d609d4c527e93bf35e.hot-update.json 28 bytes [emitted] [immutable] [hmr]
+Entrypoint main 1.78 MiB = bundle.js 1.78 MiB main.08d609d4c527e93bf35e.hot-update.js 5.67 KiB
+cached modules 1.59 MiB [cached] 53 modules
+runtime modules 28.7 KiB 15 modules
+./src/components/Navbar.js 2.7 KiB [built] [code generated]
+webpack 5.99.9 compiled successfully in 62 ms
+assets by status 1.98 KiB [cached] 1 asset
+assets by path *.js 1.78 MiB
+  asset bundle.js 1.78 MiB [emitted] (name: main)
+  asset main.62551097528e2085c913.hot-update.js 5.7 KiB [emitted] [immutable] [hmr] (name: main)
+asset main.62551097528e2085c913.hot-update.json 28 bytes [emitted] [immutable] [hmr]
+Entrypoint main 1.78 MiB = bundle.js 1.78 MiB main.62551097528e2085c913.hot-update.js 5.7 KiB
+cached modules 1.59 MiB [cached] 53 modules
+runtime modules 28.7 KiB 15 modules
+./src/components/Navbar.js 2.76 KiB [built] [code generated]
+webpack 5.99.9 compiled successfully in 53 ms
